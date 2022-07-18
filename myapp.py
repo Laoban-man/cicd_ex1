@@ -10,7 +10,7 @@ import requests
 from io import BytesIO
 
 st.set_option("deprecation.showfileUploaderEncoding", False)
-st.title("Location Image Classifier")
+st.title("Location Image Classifier tout de suite")
 st.text("Provide URL of Location Image for image classification")
 
 
